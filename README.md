@@ -1,2 +1,2 @@
 # Cod
-Codificação de respostas abertas
+Teste do modelo Lasso para codificação de perguntas abertas.
